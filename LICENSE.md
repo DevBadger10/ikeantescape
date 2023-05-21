@@ -1,4 +1,4 @@
-**Please note that the characters are not released into the public domain, and are the only part of this project not covered by the Unlicense. The rights and use of all characters in this project is ONLY permitted to DevBadger, owner of this project.**
+**Please note that the characters included in this project ARE NOT released into the public domain, and are the only part of this project not covered by the Unlicense. All characters in this project's rights are reserved by DevBadger, owner of this project.**
 
 This is free and mostly unencumbered software released into the public domain.
 
